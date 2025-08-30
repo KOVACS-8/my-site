@@ -1,0 +1,11 @@
+---
+export const title = "Chula Vista Mechanical Bull Rental";
+export const description =
+  "Same-day delivery to Chula Vista, instant quote.";
+---
+
+<h1>Chula Vista Mechanical Bull Rental</h1>
+<p>
+  We bring the bull to your backyard, park, or event space in Chula Vista.
+  Call <a href="tel:+15551234567">(555) 123-4567</a> for a 60-second quote.
+</p>
